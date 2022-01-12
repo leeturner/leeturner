@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lee 👋</h1>
-<h3 align="center">Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs [Brighton Kotlin](https://brightonkotlin.com) & [Brighton JUG](https://brightonjug.com)</h3>
+<h3 align="center">Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs <a href="https://brightonkotlin.com">Brighton Kotlin</a> & <a href="https://brightonjug.com">Brighton JUG</a></h3>
 <!--
 **leeturner/leeturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
