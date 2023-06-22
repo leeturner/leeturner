@@ -1,16 +1,31 @@
-<h1 align="center">Hi, I'm Lee 👋</h1>
-<h3 align="center">Senior Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs <a href="https://brightonkotlin.com">Brighton Kotlin</a> & <a href="https://brightonjug.com">Brighton JUG</a></h3>
-<!--
-**leeturner/leeturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there, I'm Lee 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Senior Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs [Brighton Kotlin](https://brightonkotlin.com) & [Brighton JUG](https://brightonjug.com)
+
+### You can find me on:
+
+<div align="center">
+<a href="https://hachyderm.io/@leeturner">
+    <img alt="Lee Turner on Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white">
+</a>
+<a href="https://twitter.com/leeturner">
+    <img alt="Lee Turner on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/turnerlee/">
+    <img alt="Lee Turner on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@leeturner">
+    <img alt="Youtube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</div>
+<br>
+</div>
+
+---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
