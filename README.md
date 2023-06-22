@@ -29,3 +29,6 @@ Senior Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs [Bright
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://leeturner.me/)
+
+---
