@@ -27,11 +27,11 @@ Senior Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs [Bright
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighton JUG &amp; Kotlin Summer Social 🍺](/post/brighton-jug-kotlin-summer-social/)
-- [Overriding a Parent Dependency in Maven](/post/overriding-a-dependency-in-maven/)
-- [Outputting the result of a mockMvc call](/post/outputting-result-of-mockmvc/)
-- [Creating a Progression Framework in Hugo](/post/hugo-progression-framework/)
-- [BlinkyTape JUnit Testwatcher API Implementation](/post/blinkytape-junit-testwatcher/)
+- [Brighton JUG &amp; Kotlin Summer Social 🍺](https://leeturner.me/post/brighton-jug-kotlin-summer-social/)
+- [Overriding a Parent Dependency in Maven](https://leeturner.me/post/overriding-a-dependency-in-maven/)
+- [Outputting the result of a mockMvc call](https://leeturner.me/post/outputting-result-of-mockmvc/)
+- [Creating a Progression Framework in Hugo](https://leeturner.me/post/hugo-progression-framework/)
+- [BlinkyTape JUnit Testwatcher API Implementation](https://leeturner.me/post/blinkytape-junit-testwatcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
