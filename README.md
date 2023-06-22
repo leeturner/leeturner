@@ -37,3 +37,7 @@ Senior Software Engineer · Snyk Ambassador · Appsec enthusiast · Runs [Bright
 ➡️ [more blog posts...](https://leeturner.me/)
 
 ---
+
+### 👩‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeturner&langs_count=8&layout=compact&theme=dark)
