@@ -25,17 +25,14 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 </div>
 
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Creating Hugo Blog Posts from Meetup Pages using Kotlin Script and JSoup](https://leeturner.me/post/creating-hugo-blog-posts-from-meetup-pages-using-kotlin-script-and-j-soup/)
 - [Brighton JUG &amp; Kotlin Summer Social 🍺](https://leeturner.me/post/brighton-jug-kotlin-summer-social/)
 - [Overriding a Parent Dependency in Maven](https://leeturner.me/post/overriding-a-dependency-in-maven/)
 - [Outputting the result of a mockMvc call](https://leeturner.me/post/outputting-result-of-mockmvc/)
 - [Creating a Progression Framework in Hugo](https://leeturner.me/post/hugo-progression-framework/)
-- [BlinkyTape JUnit Testwatcher API Implementation](https://leeturner.me/post/blinkytape-junit-testwatcher/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
