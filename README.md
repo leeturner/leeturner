@@ -28,11 +28,11 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024-11-26T14:47](https://leeturner.me/microblog/2024-11-26t14-47/)
 - [2024-11-19T22:27](https://leeturner.me/microblog/2024-11-19t22-27/)
 - [2024-11-19T11:16](https://leeturner.me/microblog/2024-11-19t11-16/)
 - [2024-11-17T13:35](https://leeturner.me/microblog/2024-11-17t13-35/)
 - [2024-11-16T09:49](https://leeturner.me/microblog/2024-11-16t09-49/)
-- [2024-11-15T09:09](https://leeturner.me/microblog/2024-11-15t09-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
