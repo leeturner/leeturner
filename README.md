@@ -28,11 +28,11 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert an Image into Colourful Ascii Art - Vlang Edition](https://leeturner.me/post/image-term-vlang/)
+- [2026-01-08T12-13](https://leeturner.me/microblog/2026-01-08t12-13/)
 - [2024-12-22T12-13](https://leeturner.me/microblog/2024-12-22t12-13/)
 - [2024-12-18T14-37](https://leeturner.me/microblog/2024-12-18t14-37/)
 - [2024-12-06T09-04](https://leeturner.me/microblog/2024-12-06t09-04/)
-- [2024-12-05T09-39](https://leeturner.me/microblog/2024-12-05t09-39/)
-- [2024-12-04T16-32](https://leeturner.me/microblog/2024-12-04t16-32/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
