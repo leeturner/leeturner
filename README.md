@@ -29,10 +29,10 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 
 <!-- BLOG-POST-LIST:START -->
 - [Convert an Image into Colourful Ascii Art - Vlang Edition](https://leeturner.me/post/image-term-vlang/)
-- [2026-01-08T12-13](https://leeturner.me/microblog/2026-01-08t12-13/)
-- [2024-12-22T12-13](https://leeturner.me/microblog/2024-12-22t12-13/)
-- [2024-12-18T14-37](https://leeturner.me/microblog/2024-12-18t14-37/)
-- [2024-12-06T09-04](https://leeturner.me/microblog/2024-12-06t09-04/)
+- [WireMock 3.6.0 - New Array Helpers](https://leeturner.me/post/wiremock-3-6-0-array-helpers/)
+- [Returning Images From Micronaut Controllers](https://leeturner.me/post/returning-images-from-micronaut-controllers/)
+- [Creating Hugo Blog Posts from Meetup Pages using Kotlin Script and JSoup](https://leeturner.me/post/creating-hugo-blog-posts-from-meetup-pages-using-kotlin-script-and-j-soup/)
+- [Brighton JUG &amp; Kotlin Summer Social 🍺](https://leeturner.me/post/brighton-jug-kotlin-summer-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
