@@ -28,11 +28,11 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing wiremock-micronaut](https://leeturner.me/post/wiremock-micronaut/)
 - [Convert an Image into Colourful Ascii Art - Vlang Edition](https://leeturner.me/post/image-term-vlang/)
 - [WireMock 3.6.0 - New Array Helpers](https://leeturner.me/post/wiremock-3-6-0-array-helpers/)
 - [Returning Images From Micronaut Controllers](https://leeturner.me/post/returning-images-from-micronaut-controllers/)
 - [Creating Hugo Blog Posts from Meetup Pages using Kotlin Script and JSoup](https://leeturner.me/post/creating-hugo-blog-posts-from-meetup-pages-using-kotlin-script-and-j-soup/)
-- [Brighton JUG &amp; Kotlin Summer Social 🍺](https://leeturner.me/post/brighton-jug-kotlin-summer-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
