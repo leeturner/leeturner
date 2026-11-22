@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lee 👋
 
-Senior Software Engineer · Snyk Ambassador · Appsec enthusiast ·
+Senior Software Engineer · Appsec enthusiast ·
 Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG](https://www.meetup.com/brighton-jug/)
 
 ### You can find me on:
