@@ -28,11 +28,11 @@ Runs [Brighton Kotlin](https://www.meetup.com/Brighton-Kotlin/) & [Brighton JUG]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [arrow-detekt-rules - Catching Arrow Mistakes with detekt](https://leeturner.me/post/arrow-detekt-rules/)
 - [mtui - A Terminal UI for Micronaut Launch](https://leeturner.me/post/micronaut-launch-tui/)
 - [wiremock-blns-extension - Naughty Strings for WireMock](https://leeturner.me/post/wiremock-blns-extension/)
 - [Introducing wiremock-micronaut](https://leeturner.me/post/wiremock-micronaut/)
 - [Convert an Image into Colourful Ascii Art - Vlang Edition](https://leeturner.me/post/image-term-vlang/)
-- [WireMock 3.6.0 - New Array Helpers](https://leeturner.me/post/wiremock-3-6-0-array-helpers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://leeturner.me/)
